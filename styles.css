@@ -6,7 +6,9 @@
 }
 body{
     background-color: #1f242d ;
+ 
 }
+
 .container{
     display: flex;
     background-color:transparent;
@@ -26,6 +28,8 @@ a{
     text-decoration: none;
     color: white;
     font-size: 16px;
+    font-weight: 900;
+    
 }
 
 a:hover{
@@ -33,17 +37,25 @@ a:hover{
 }
 .h2{
     background-color:rgb(6, 158, 156) ;
-    width: 127px;
+    width: 130px;
     margin: 50px 0 0 0;
+    border-radius: 5px;
+    text-align: center;
+    
 }
 
 .precentación{
     color: white;
     line-height: 45px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
 }
 strong{
     color:rgb(6, 158, 156) ;
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px 6px;
+
 }
 p{
     line-height: 1.0;
